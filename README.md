@@ -1,5 +1,7 @@
 # React + Vite
 
+1. First Website Template - Can use it for a simple one page site - Especially when one needs one with Dark and shades of orange.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
