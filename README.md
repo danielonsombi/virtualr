@@ -18,3 +18,12 @@ cd virtualr
 Install Tailwind css:
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
+
+Developed the whole site with different components within the same page.
+
+The app is then deployed on Vercel. https://vercel.com/
+
+Can run it using the command:
+
+npm run dev
+
